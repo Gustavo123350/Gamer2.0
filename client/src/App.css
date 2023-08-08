@@ -1,0 +1,52 @@
+body{
+  background-image: url('./wallpaper.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+.titulo {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   color: crimson;
+   font-size: 4rem;
+}
+
+.tex {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   font-size: 2rem;
+   border: none;
+   background-color: crimson;
+}
+.placeholder {
+   color: whitesmoke;
+}
+
+.user {
+   text-align: center;
+  color: whitesmoke;
+  font-size: 2rem;
+}
+
+.botao1 {
+   display: flex;
+   justify-content:space-between;
+    color: white;
+    border: none;
+    background-color: transparent;
+    font-size: 2rem;
+}
+
+.botao {
+  display: flex;
+  justify-content:center;
+  align-items: center;
+  color: white;
+  border: none;
+  background-color: transparent;
+  font-size: 2rem;
+
+}
